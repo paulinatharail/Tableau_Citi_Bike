@@ -1,9 +1,9 @@
 # Tableau_Citi_Bike
-<h3>Summary</h3><br>
+<h2><u>Summary</u></h2>
     Citi Bike's trip history data files were downloaded for the period (Mar 2018 - Feb 2019). These individual files were unioned to create a single dataset. Few calculated fields were computed to create the visualizations.
 <br>
 
-<h3>Visualizations</h3>
+<h2><u>Visualizations</u></h2>
 <b>Top start and end stations</b><br>
     The Treemap indicates the various start and stop stations for Citi Bikes from Mar 2018 - Feb 2019.The size of the rectangles and the concentration of the color corresponds to the number of rides from/to the stations. The treemap is interactive - ie on mouse hover, the bar charts below displays 
     the information for the selected combination of stations. Similarly, if the cursor hovers over any of the stations in the bar chart, the corresponding start or end stations is indicated in the neighboring chart. The Treemap also changes to show the possible combinations for that station. 
